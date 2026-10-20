@@ -1,0 +1,15 @@
+file,station_name,station_height_m,latitude,longitude,missing_data_points
+data/hly175_subset.csv,PHOENIX_PARK,48.0,53.364,-6.35,0
+data/hly275_subset.csv,MACE_HEAD,21.0,53.326,-9.901,234
+data/hly375_subset.csv,OAK_PARK,62.0,52.861,-6.915,338
+data/hly575_subset.csv,MOORE_PARK,46.0,52.164,-8.264,0
+data/hly775_subset.csv,SHERKIN_ISLAND,21.0,51.476,-9.428,315
+data/hly875_subset.csv,MULLINGAR,101.0,53.537,-7.362,62
+data/hly1075_subset.csv,ROCHES_POINT,40.0,51.793,-8.244,193
+data/hly1375_subset.csv,DUNSANY,83.0,53.516,-6.66,99
+data/hly1475_subset.csv,GURTEEN,75.0,53.036,-8.009,229
+data/hly1775_subset.csv,JOHNSTOWN_CASTLE_2,62.0,52.298,-6.497,9664
+data/hly1875_subset.csv,ATHENRY,40.0,53.289,-8.786,505
+data/hly1975_subset.csv,MT_DILLON,39.0,53.727,-7.981,1107
+data/hly2175_subset.csv,CLAREMORRIS,68.0,53.711,-8.993,104
+data/hly2275_subset.csv,VALENTIA_OBSERVATORY,24.0,51.938,-10.241,402
